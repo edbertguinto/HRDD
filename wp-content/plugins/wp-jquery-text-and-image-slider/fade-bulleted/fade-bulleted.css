@@ -1,0 +1,7 @@
+.fade_bullets_gallery .slide{display:none;padding:5px; margin:5px 0; border:1px #ccc solid;}
+.fade_bullets_gallery .slide img{padding:0px; margin:0px; border:0px;}
+.fade_bullets_gallery .slide_first{display:block;}
+.fade_bullets_gallery .fade_bullets_bullets ul {margin:0px !important; padding:0px!important; list-style:none; height:11px; margin-top:1px;}
+.fade_bullets_gallery .fade_bullets_bullets ul li{display:block; float:left; padding:0px; width:9px; height:9px; overflow:hidden; margin:0 0 0 5px;border:1px #ccc solid; background:#ccc; -moz-transition: background 0.25s ease-in-out 0s; -webkit-transition: background 0.25s ease-in-out 0s;-o-webkit-transition: background 0.25s ease-in-out 0s; transition: background 0.25s ease-in-out 0s; cursor:pointer;border-radius:9px; -moz-border-radius:9px; -webkit-border-radius:9px;}
+.fade_bullets_gallery .fade_bullets_bullets ul li:first-child{margin-left:0px !important;}
+.fade_bullets_gallery .fade_bullets_bullets ul li.active {background:#fff;}

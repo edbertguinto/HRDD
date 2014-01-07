@@ -1,0 +1,53 @@
+[
+	{
+		"groupname": "Pages settings",
+		"groupdesc": "Parameters for theme pages are configured here.",
+		"fields": [
+			{
+				"name": "template_show_details_on_pages",
+				"type": "Switcher",
+				"label": "Display details on pages",
+				"tooltip": "Enable the display of the page information block for each page content item.",
+				"default": "N",
+				"class": "",
+				"visibility": ""
+			},
+			{
+				"name": "template_show_author_info_on_pages",
+				"type": "Switcher",
+				"label": "Display Author Info on pages",
+				"tooltip": "Enable the display of the author information block for each page content item.",
+				"default": "Y",
+				"class": "",
+				"visibility": ""
+			},
+			{
+				"name": "pages_show_comments_on_pages",
+				"type": "Switcher",
+				"label": "Display comments on pages",
+				"tooltip": "Enable the display of the comments block for each page content item.",
+				"default": "Y",
+				"class": "",
+				"visibility": ""
+			},
+			{
+				"name": "details_on_attachment_page",
+				"type": "Switcher",
+				"label": "Display sidebar information on the attachment page",
+				"tooltip": "You can disable showing the sidebar with additional information on the attachment page.",
+				"default": "Y",
+				"class": "",
+				"visibility": ""
+			},
+			{
+				"name": "contact_template_email",
+				"type": "Text",
+				"label": "Contact e-mail",
+				"tooltip": "Specifies e-mail used on the Contact page template",
+				"default": "",
+				"class": "",
+				"visibility": ""
+			}
+		]
+	}
+]

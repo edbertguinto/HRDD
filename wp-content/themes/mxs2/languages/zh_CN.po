@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MxS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-06 09:53+0800\n"
+"PO-Revision-Date: 2012-03-06 09:53+0800\n"
+"Last-Translator: Axiu <maxlev3@gmail.com>\n"
+"Language-Team: axiu <maxlev3@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../404.php:4
+msgid "Error 404 - Not Found"
+msgstr "错误404 - 找不到相关内容"
+
+#: ../archive.php:3
+msgid "Blog Archives"
+msgstr "文章存档"
+
+#: ../archive.php:10
+#: ../content.php:11
+msgid "Category"
+msgstr "分类"
+
+#: ../archive.php:11
+#: ../category.php:10
+#: ../content.php:12
+msgid "tags :"
+msgstr "标签:"
+
+#: ../archive.php:22
+#: ../category.php:21
+#: ../index.php:1
+#: ../page.php:14
+msgid "Not Found"
+msgstr "没有找到"
+
+#: ../category.php:3
+msgid " Archive"
+msgstr " 存档"
+
+#: ../comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "这篇文章有密码保护。请输入密码查看评论。"
+
+#: ../comments.php:36
+msgid "Comments "
+msgstr "评论 "
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: ../comments.php:67
+msgid "Pingbacks "
+msgstr "引用 "
+
+#: ../content-quote.php:11
+msgid "quote"
+msgstr "引用"
+
+#: ../content-quote.php:19
+#: ../content-video.php:18
+#: ../content.php:27
+msgid "read more"
+msgstr "继续阅读"
+
+#: ../content-video.php:10
+msgid "video"
+msgstr "视频"
+
+#: ../content.php:14
+msgid " Edit"
+msgstr " 编辑"
+
+#: ../content.php:23
+msgid "&raquo; Read more"
+msgstr "继续阅读"
+
+#: ../content.php:23
+msgid "Read More"
+msgstr "继续阅读"
+
+#: ../content.php:26
+msgid "Pages:"
+msgstr "分页:"
+
+#: ../footer.php:1
+msgid "Powered by "
+msgstr "基于 "
+
+#: ../footer.php:1
+msgid "Theme "
+msgstr "主题 "
+
+#: ../functions.php:1
+msgid "Primary Navigation"
+msgstr "主导航栏"
+
+#: ../functions.php:1
+msgid "Primary Widget Area"
+msgstr "边栏小工具区"
+
+#: ../functions.php:1
+msgid "The primary widget area"
+msgstr "边栏小工具区"
+
+#: ../functions.php:1
+msgid "First Footer Widget Area"
+msgstr "第一底部小工具区"
+
+#: ../functions.php:1
+msgid "The first footer widget area"
+msgstr "第1底部小工具区"
+
+#: ../functions.php:1
+msgid "Second Footer Widget Area"
+msgstr "第二底部小工具区"
+
+#: ../functions.php:1
+msgid "The second footer widget area"
+msgstr "第2底部小工具区"
+
+#: ../functions.php:1
+msgid "Third Footer Widget Area"
+msgstr "第三底部小工具区"
+
+#: ../functions.php:1
+msgid "The third footer widget area"
+msgstr "第3底部小工具区"
+
+#: ../functions.php:1
+msgid "Fourth Footer Widget Area"
+msgstr "第四底部小工具区"
+
+#: ../functions.php:1
+msgid "The fourth footer widget area"
+msgstr "第4底部小工具区"
+
+#: ../functions.php:1
+msgid "First Page"
+msgstr "第一页"
+
+#: ../functions.php:1
+msgid "First"
+msgstr "第一页"
+
+#: ../functions.php:1
+msgid "previous"
+msgstr "上一页"
+
+#: ../functions.php:1
+msgid "next"
+msgstr "下一页"
+
+#: ../functions.php:1
+msgid "Last Page"
+msgstr "最后一页"
+
+#: ../functions.php:1
+msgid "Last"
+msgstr "最后一页"
+
+#: ../functions.php:1
+msgid "Name"
+msgstr "名字"
+
+#: ../functions.php:1
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../functions.php:1
+msgid "Website"
+msgstr "网站"
+
+#: ../functions.php:1
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: ../functions.php:1
+#, php-format
+msgid "%s from %s"
+msgstr "%s 来自 %s"
+
+#: ../functions.php:1
+msgid "Logo image"
+msgstr "Logo图片"
+
+#: ../functions.php:1
+msgid "Put your logo image address here (max size: 280px*100px). If empty, display blog title with text."
+msgstr "请输入你的logo图片地址(最大支持280px*100px)。留空则显示文字。"
+
+#: ../functions.php:1
+msgid "Disable the site description"
+msgstr "隐藏站点描述？"
+
+#: ../functions.php:1
+msgid "Disabling this will remove the site description."
+msgstr "勾选，会把站点标题下面的描述隐藏。"
+
+#: ../functions.php:1
+msgid "Archieve Excerpt?"
+msgstr "存档页显示摘要吗？"
+
+#: ../functions.php:1
+msgid "If the archive pages to display excerpt of post, check."
+msgstr "勾选，存档页（包括分类和标签页）文章会显示摘要。"
+
+#: ../functions.php:1
+msgid "Home Excerpt?"
+msgstr "主页显示摘要吗？"
+
+#: ../functions.php:1
+msgid "If the home page to display excerpt of post, check."
+msgstr "勾选，主页文章会显示摘要。"
+
+#: ../functions.php:1
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: ../functions.php:1
+#, php-format
+msgid "%1$s Theme Options"
+msgstr "%1$s 主题选项"
+
+#: ../functions.php:1
+msgid "Options saved"
+msgstr "选项已更新"
+
+#: ../functions.php:1
+msgid "Save Options"
+msgstr "更新选项"
+
+#: ../search.php:4
+msgid "Search Results &raquo;"
+msgstr "搜索结果 &raquo;"
+
+#: ../search.php:16
+msgid "No posts found. Try a different search?"
+msgstr "没有找到要搜的内容，试试搜索其他的?"
+
+#: ../searchform.php:8
+msgid "Search"
+msgstr "搜索"
+
+#: ../sidebar.php:5
+msgid "Archive"
+msgstr "存档"
+
+#: ../sidebar.php:12
+msgid "Meta"
+msgstr "Meta"
+
+#: ../single.php:1
+msgid "&laquo; Previous"
+msgstr "&laquo; 上一篇"
+
+#: ../single.php:1
+msgid "Next &raquo; "
+msgstr "下一篇 &raquo;"
+
+#: ../single.php:2
+msgid "Posted on "
+msgstr "撰写于 "
+
+#: ../single.php:5
+msgid "&raquo; Tags:"
+msgstr "&raquo; 标签:"
+
+#: ../tag.php:3
+msgid "Post about "
+msgstr "文章贴有标签"
+
+#~ msgid "Pingbacks (Close)"
+#~ msgstr "引用(关闭)"
+
+#~ msgid "Comments (Close)"
+#~ msgstr "评论(关闭)"
+
+#~ msgid "Off"
+#~ msgstr "关闭"
+
+#~ msgid "Home"
+#~ msgstr "首页"
+
+#~ msgid "&raquo; Continue Reading"
+#~ msgstr "&raquo; 阅读全文"
+
+#~ msgid "TOP"
+#~ msgstr "顶部"
